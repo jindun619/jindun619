@@ -1,8 +1,8 @@
-# Hello, I'm [Hoojun Kim(金澔俊)]🇰🇷🇨🇳! 👋
+# Hello, I'm Hoojun Kim(金澔俊)🇰🇷🇨🇳! 👋
 
 - 🎯 Goal: To grow as a Backend/Frontend/Full-stack Developer
 - 🌱 Currently learning: [Java Spring Boot]
-- 💡 Interests: [Web Development, AI, Cloud Computing]
+- 💡 Interests: [Web Development, AI]
 
 ## 🛠️ Tech Stack
 
