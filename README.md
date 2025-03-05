@@ -1,4 +1,4 @@
-# Hello, I'm [Hoojun Kim]🇰🇷🇨🇳! 👋
+# Hello, I'm [Hoojun Kim(金澔俊)]🇰🇷🇨🇳! 👋
 
 - 🎯 Goal: To grow as a Backend/Frontend/Full-stack Developer
 - 🌱 Currently learning: [Java Spring Boot]
@@ -8,9 +8,7 @@
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,7 +40,6 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### State Management & Libraries
 
@@ -71,14 +68,6 @@
 
 - **[Movie App](https://github.com/jindun619/movie-app)**: A cross-platform mobile app for movie information. Built with **React Native** and **TMDB API**.
 - **[Dunstagram](https://github.com/jindun619/dunstagram)**: A social media mobile app. Built with **React Native** and **Supabase**.
-
-## 📝 Blog
-
-- [hoojun.kim](https://blog.hoojun.kim/)
-
-## 🌱 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jindun619&theme=radical)
 
 ## 🎵 Hobbies
 
