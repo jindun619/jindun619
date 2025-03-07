@@ -52,17 +52,17 @@
 ### Frontend
 
 - **[🌟Movie Web](https://github.com/jindun619/movie-web)**: A movie information website using TMDB API. Built with **Next.js** and **TailwindCSS**.
+- **[🌟Pokedex Web](https://github.com/jindun619/pokedex-web)**: A Pokédex web application using **PokeAPI**. Features infinite scroll and responsive design.
 - **[Hoojun Blog V2](https://github.com/jindun619/hoojun-blog-v2)**: A personal blog built with **Next.js** and **TypeScript**. Features static site generation and markdown support.
 - **[Hoojun Gallery](https://github.com/jindun619/hoojun-gallery)**: A gallery website showcasing my pictures. Built with **Next.js** and **Supabase**.
-- **[🌟Pokedex Web](https://github.com/jindun619/pokedex-web)**: A Pokédex web application using **PokeAPI**. Features infinite scroll and responsive design.
-- **[🌟Forum Web](https://github.com/jindun619/forum-web)**: A forum web application with user authentication. Built with **React** and **Supabase**.
+- **[Forum Web](https://github.com/jindun619/forum-web)**: A forum web application with user authentication. Built with **React** and **Supabase**.
 - **[Gagebu](https://github.com/jindun619/gagebu)**: A personal finance management web application. Built with **React** and **Spring Boot**.
 
 ### Backend
 
+- **[🌟OpenVINO Flask Server](https://github.com/jindun619/openvino-flask-server)**: A Flask server for image processing using **Intel's OpenVINO**. Part of a university-industry collaboration project.
 - **[Dunstagram Backend](https://github.com/jindun619/dunstagram-backend)**: Backend for a social media application. Built with **NestJS** and **MySQL**.
 - **[Gagebu Backend](https://github.com/jindun619/gagebu-backend)**: Backend for a personal finance management app. Built with **Spring Boot** and **MySQL**.
-- **[🌟OpenVINO Flask Server](https://github.com/jindun619/openvino-flask-server)**: A Flask server for image processing using **Intel's OpenVINO**. Part of a university-industry collaboration project.
 
 ### Mobile Apps
 
